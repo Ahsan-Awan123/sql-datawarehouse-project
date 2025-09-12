@@ -1,0 +1,12 @@
+Create a database and schema
+
+
+
+
+Create database datawarehouse;
+
+create schema bronze;
+
+create schema silver;
+
+create schema gold;
